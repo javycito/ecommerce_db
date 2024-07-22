@@ -1,0 +1,15 @@
+#base de datos
+*.db
+*.sqlite
+*.sql
+
+#configuración
+config.py
+*.env
+
+#registro
+*.log
+
+#directorios
+venv/
+__pycache__/
